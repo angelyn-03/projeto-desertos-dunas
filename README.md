@@ -4,15 +4,6 @@
 **Disciplina:** Ciência de Dados, Computação Gráfica e UX/UI
 **Tema Designado:** Zonas Desérticas e Camadas de Areia (Uniformes e Dunas)
 
-
-*   **Altitude > 10.000m:** Baixa Resolução (Mosaico geral das zonas áridas do planeta).
-*   **Altitude entre 1.000m e 10.000m:** Média Resolução (Mapeamento regional de campos de dunas e ventos).
-*   **Altitude < 1.000m:** Alta Resolução (Detalhes finos da textura da areia, cristas e sombras das dunas).
-
-
-### 3. Imagens/Evidências
-*(Insira aqui no seu repositório a captura de tela do Google Earth mostrando um deserto ou campo de dunas, como o Deserto do Saara, Atacama ou Lençóis Maranhenses. Salve a imagem na pasta do projeto e referencie abaixo)*
-
 ![Captura de tela do Google Earth](Dunas1.png)
 
 ![Captura de tela do Google Earth](Dunas2.png)
