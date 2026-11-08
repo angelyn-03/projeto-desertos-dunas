@@ -29,9 +29,8 @@ Na interface do Google Earth, ao buscar por desertos como o Saara ou o Deserto d
 *(Insira aqui no seu repositório a captura de tela do Google Earth mostrando um deserto ou campo de dunas, como o Deserto do Saara, Atacama ou Lençóis Maranhenses. Salve a imagem na pasta do projeto e referencie abaixo)*
 
 ![Captura de tela do Google Earth](Dunas1.png)
-*Exemplo de visualização de dunas no Google Earth.*
+
 ![Captura de tela do Google Earth](Dunas2.png)
-*Exemplo de visualização de dunas no Google Earth.*
 
 ---
 
